@@ -105,7 +105,5 @@ $(window).scroll(function() {
 	});	
 
 }());
-
-
 }
 main();
